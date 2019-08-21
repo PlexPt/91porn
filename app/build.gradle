@@ -81,7 +81,7 @@ dependencies {
     //compile 'com.yanzhenjie:recyclerview-swipe:1.1.3'
     compile 'com.github.AItsuki:SwipeMenuRecyclerView:1.1.1'
     compile 'com.liulishuo.filedownloader:library:1.7.1'
-    compile 'com.ycjiang:loadviewhelper:1.1.2'
+    compile 'com.ycjiang:loadviewhelper:1.1.6'
     compile 'com.yanzhenjie:permission:1.1.2'
     compile 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
     //https://app.bugsnag.com/accounts/cbs-1/projects/android/integrate bug收集
