@@ -72,7 +72,7 @@ dependencies {
     // If you want to use Android Lifecycle for providers
     compile 'com.trello.rxlifecycle2:rxlifecycle-android-lifecycle:2.2.1'
     debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5.4'
-    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5.4'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.6.3'
     compile 'com.danikula:videocache:2.7.0'
     //rxcache
     compile 'com.github.VictorAlbertos.RxCache:runtime:1.8.3-2.x'
