@@ -1,0 +1,14 @@
+version: 2
+updates:
+- package-ecosystem: gradle
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: com.google.dagger:dagger
+    versions:
+    - "> 2.14.1"
+  - dependency-name: com.squareup.leakcanary:leakcanary-android
+    versions:
+    - "2.6"
